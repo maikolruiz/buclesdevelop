@@ -1,0 +1,38 @@
+h1{
+    background: rgb(196, 34, 12);
+    width: 1000px;
+    margin-left: 450px;
+    text-align: center;
+    color: #fafafa;
+    border:1px solid #999999;
+    padding:20px;
+    margin-bottom:15px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+    -moz-box-shadow:rgb(150,150,150)5px 5px;
+    -webkit-box-shadow:rgb(150,150,150)5px 5px;
+    box-shadow:rgb(150,150,150)5px 5px
+}
+
+.container{
+    background: rgb(196, 34, 12);
+    height: auto;
+    width: 800px;
+    text-align: center;
+    color: #fafafa;
+    border:1px solid #999999;
+    padding:20px;
+    margin-bottom:15px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+    -moz-box-shadow:rgb(150,150,150)5px 5px;
+    -webkit-box-shadow:rgb(150,150,150)5px 5px;
+    box-shadow:rgb(150,150,150)5px 5px
+} 
+
+.resultado{
+    color: #000000;
+    margin-left: 600px;
+}
